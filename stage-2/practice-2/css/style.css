@@ -1,0 +1,130 @@
+body{
+	margin:20px 10px 0 30px;
+	font-family: arial;
+	line-height: 30px;
+}
+h2{
+	font-size: 30px;
+}
+a{
+	color:blue;
+}
+hr{
+	border:2px solid blue;
+}
+.work h3{
+	font-size: 20px;
+	font-style: bold;
+	font-family: bold;
+	font-weight: bold;
+}
+.work li{
+	line-height: 20px;
+}
+.tech h3{
+	font-size: 20px;
+	font-style: bold;
+	font-weight: bold;
+	font-family: bold;
+}
+.tech li{
+	line-height: 20px;
+}
+.sum h3{
+	font-size: 20px;
+	font-style: bold;
+	font-weight: bold;
+	font-family: bold;
+}
+.sum li{
+	line-height: 20px;
+}
+.proj h3{
+	font-size: 20px;
+	font-style: bold;
+	font-family: bold;
+	font-weight: bold;
+}
+.proj p ba{
+	font-weight: bold;
+	font-style: bold;
+}
+.proj li{
+	line-height: 20px;
+}
+.resp h3{
+	font-size: 20px;
+	font-style: bold;
+	font-weight: bold;
+	font-family: bold;
+}
+.resp li{
+	line-height: 20px;
+}
+.learn h3 b {
+	font-style: bold;
+	font-family: bold;
+	font-weight: bold;
+}
+.learn p i{
+	font-style: italic;
+}
+.key li{
+	line-height: 20px;
+}
+.myresp h3{
+	font-weight: capitalize;
+	font-style: bold;
+	
+}
+.myresp li{
+	line-height: 20px;
+}
+.live h3 b{
+	font-weight: bold;
+	font-style: bold;
+	
+}
+.myresp2 h3{
+	font-weight: bold;
+	font-style: bold;
+}
+.myresp2 li{
+	line-height: 20px;
+
+}
+.forum h3 b{
+	font-weight: bold;
+}
+.forum p{
+	line-height: 30px;
+}
+.connect h3 b{
+	font-weight: bold;
+	font-size: bold;
+	line-height: 50px;
+}
+.connect p{
+	font-style: italic;
+	font-size: 17px;
+	font-weight: italic;
+}
+.myresp3 h3{
+	font-weight: bold;
+	font-style: bold;
+}
+.myresp3 li{
+	line-height: 20px;
+}
+.qualifi h3{
+	font-weight: bold;
+	font-style: bold;
+}
+
+.qualifi ul li{
+	line-height: 20px;
+	list-style-type: square;
+}
+.qualifi ul li::before{
+	content:".";
+}

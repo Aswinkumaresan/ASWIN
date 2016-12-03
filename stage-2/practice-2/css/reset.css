@@ -1,0 +1,12 @@
+*{
+	font-size: 100%;
+	font-weight: normal;
+	font-family: "Times New Roman";
+	line-height: 1;
+	text-align: left;
+	text-indent: 0px;
+	text-transform: none;
+}
+ul ol{
+	list-style-type: none;
+}
